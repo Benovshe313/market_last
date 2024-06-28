@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\checkk\checkk\bin\Debug\net8.0\checkk.exe
+C:\Users\User\source\repos\checkk\checkk\bin\Debug\net8.0\checkk.deps.json
+C:\Users\User\source\repos\checkk\checkk\bin\Debug\net8.0\checkk.runtimeconfig.json
+C:\Users\User\source\repos\checkk\checkk\bin\Debug\net8.0\checkk.dll
+C:\Users\User\source\repos\checkk\checkk\bin\Debug\net8.0\checkk.pdb
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\checkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\checkk.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\checkk.AssemblyInfo.cs
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\checkk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\checkk.dll
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\refint\checkk.dll
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\checkk.pdb
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\checkk.genruntimeconfig.cache
+C:\Users\User\source\repos\checkk\checkk\obj\Debug\net8.0\ref\checkk.dll

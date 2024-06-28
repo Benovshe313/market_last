@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\market_pr\market_pr\obj\Debug\net8.0\market_pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\market_pr\market_pr\obj\Debug\net8.0\market_pr.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\market_pr\market_pr\obj\Debug\net8.0\market_pr.AssemblyInfo.cs
+C:\Users\User\source\repos\market_pr\market_pr\obj\Debug\net8.0\market_pr.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\market_task\market_task\bin\Debug\net8.0\market_task.exe
+C:\Users\User\source\repos\market_task\market_task\bin\Debug\net8.0\market_task.deps.json
+C:\Users\User\source\repos\market_task\market_task\bin\Debug\net8.0\market_task.runtimeconfig.json
+C:\Users\User\source\repos\market_task\market_task\bin\Debug\net8.0\market_task.dll
+C:\Users\User\source\repos\market_task\market_task\bin\Debug\net8.0\market_task.pdb
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\market_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\market_task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\market_task.AssemblyInfo.cs
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\market_task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\market_task.dll
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\refint\market_task.dll
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\market_task.pdb
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\market_task.genruntimeconfig.cache
+C:\Users\User\source\repos\market_task\market_task\obj\Debug\net8.0\ref\market_task.dll
